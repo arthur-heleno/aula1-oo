@@ -1,0 +1,5 @@
+# Aula 1 - Exemplo de utilização do Git
+## Professor André Lanna
+
+Essa primeira aula tem o intuito de apresentar os conceitos básicos de Git.
+Ela ainda vai apresentar a utilização do seriço GitHub.
